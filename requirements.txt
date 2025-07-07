@@ -1,0 +1,32 @@
+# IA e LLMs
+langgraph>=0.0.30
+langchain>=0.2.0
+langchain-openai>=0.1.7
+langchain-community>=0.0.16
+openai>=1.30.1
+tiktoken>=0.6.0
+
+# CLI bonitona
+rich>=13.7.1
+
+# Tipagem moderna
+typing_extensions>=4.11.0
+
+# Ferramentas de segurança (instaladas no sistema, mas listadas por contexto)
+# Essas dependem do seu sistema operacional. Ex: apt install nmap, dirb, etc.
+# Aqui são apenas comentários para lembrar que devem estar instaladas:
+# - nmap
+# - rustscan
+# - httpx
+# - subfinder
+# - amass
+# - whois
+# - sqlmap
+# - searchsploit
+# - commix
+# - xsser
+# - nikto
+# - gobuster
+# - whatweb
+# - censys
+# - shodan

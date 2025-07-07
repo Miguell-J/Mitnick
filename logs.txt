@@ -1,0 +1,29 @@
+
+Recon - whois: OK
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-07 17:46 -03
+Stats: 0:00:02 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 9.60% done; ETC: 17:47 (0:00:28 remaining)
+Stats: 0:00:02 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 14.20% done; ETC: 17:46 (0:00:18 remaining)
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 18.00% done; ETC: 17:46 (0:00:14 remaining)
+Stats: 0:00:04 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 81.25% done; ETC: 17:46 (0:00:01 remaining)
+Stats: 0:00:05 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 93.10% done; ETC: 17:46 (0:00:00 remaining)
+Debugging Increased to 1.
+Overall sending rates: 366.96 packets / s.
+Nmap scan report for dns.google (8.8.8.8)
+Host is up (0.030s latency).
+Scanned at 2025-07-07 17:46:35 -03 for 6s
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+53/tcp  open  domain
+443/tcp open  https
+Final times for host: srtt: 30478 rttvar: 14250  to: 100000
+
+Read from /usr/bin/../share/nmap: nmap-protocols nmap-services.
+Nmap done: 1 IP address (1 host up) scanned in 5.53 seconds
+
+Recon - whois: OK
+Exploit - sqlmap: OK
