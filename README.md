@@ -123,4 +123,4 @@ MIT License © 2025 Miguel Araújo Julio
 
 ## Contact
 
-Miguel Araújo Julio — [GitHub](https://github.com/Miguell-J) — [julioaraujo.guel@gmail.com@example.com](mailto:julioaraujo.guel@gmail.com@example.com)
+Miguel Araújo Julio — [GitHub](https://github.com/Miguell-J) — [julioaraujo.guel@gmail.com](mailto:julioaraujo.guel@gmail.com@example.com)
