@@ -82,7 +82,7 @@ Launch the interactive Mitinik agent:
 python cli.py
 ```
 
-[cli](img_mitinik.png)
+![cli](img_mtnk.png)
 
 Example commands:
 
